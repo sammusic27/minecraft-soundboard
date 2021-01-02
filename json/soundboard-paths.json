@@ -1,0 +1,566 @@
+{
+  "blocks": [
+    {
+      "path": "./assets/blocks/grass1.mp3",
+      "filename": "grass1.mp3"
+    },
+    {
+      "path": "./assets/blocks/grass2.mp3",
+      "filename": "grass2.mp3"
+    },
+    {
+      "path": "./assets/blocks/grass3.mp3",
+      "filename": "grass3.mp3"
+    },
+    {
+      "path": "./assets/blocks/grass4.mp3",
+      "filename": "grass4.mp3"
+    },
+    {
+      "path": "./assets/blocks/gravel1.mp3",
+      "filename": "gravel1.mp3"
+    },
+    {
+      "path": "./assets/blocks/gravel2.mp3",
+      "filename": "gravel2.mp3"
+    },
+    {
+      "path": "./assets/blocks/gravel3.mp3",
+      "filename": "gravel3.mp3"
+    },
+    {
+      "path": "./assets/blocks/gravel4.mp3",
+      "filename": "gravel4.mp3"
+    },
+    {
+      "path": "./assets/blocks/water.mp3",
+      "filename": "water.mp3"
+    }
+  ],
+  "explode": [
+    {
+      "path": "./assets/explode/explode1.mp3",
+      "filename": "explode1.mp3"
+    },
+    {
+      "path": "./assets/explode/explode2.mp3",
+      "filename": "explode2.mp3"
+    },
+    {
+      "path": "./assets/explode/explode3.mp3",
+      "filename": "explode3.mp3"
+    },
+    {
+      "path": "./assets/explode/explode4.mp3",
+      "filename": "explode4.mp3"
+    }
+  ],
+  "items": [
+    {
+      "path": "./assets/items/anvil_break.mp3",
+      "filename": "anvil_break.mp3"
+    },
+    {
+      "path": "./assets/items/anvil_land.mp3",
+      "filename": "anvil_land.mp3"
+    },
+    {
+      "path": "./assets/items/anvil_use.mp3",
+      "filename": "anvil_use.mp3"
+    },
+    {
+      "path": "./assets/items/portal.mp3",
+      "filename": "portal.mp3"
+    },
+    {
+      "path": "./assets/items/portal_travel.mp3",
+      "filename": "portal_travel.mp3"
+    },
+    {
+      "path": "./assets/items/portal_trigger.mp3",
+      "filename": "portal_trigger.mp3"
+    }
+  ],
+  "chicken": [
+    {
+      "path": "./assets/mobs/chicken/hurt1.mp3",
+      "filename": "hurt1.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/hurt2.mp3",
+      "filename": "hurt2.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/plop.mp3",
+      "filename": "plop.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/chicken/step2.mp3",
+      "filename": "step2.mp3"
+    }
+  ],
+  "cow": [
+    {
+      "path": "./assets/mobs/cow/hurt1.mp3",
+      "filename": "hurt1.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/hurt2.mp3",
+      "filename": "hurt2.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/hurt3.mp3",
+      "filename": "hurt3.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/say4.mp3",
+      "filename": "say4.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/cow/step4.mp3",
+      "filename": "step4.mp3"
+    }
+  ],
+  "creeper": [
+    {
+      "path": "./assets/mobs/creeper/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/creeper/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/creeper/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/creeper/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/creeper/say4.mp3",
+      "filename": "say4.mp3"
+    }
+  ],
+  "pig": [
+    {
+      "path": "./assets/mobs/pig/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/step4.mp3",
+      "filename": "step4.mp3"
+    },
+    {
+      "path": "./assets/mobs/pig/step5.mp3",
+      "filename": "step5.mp3"
+    }
+  ],
+  "sheep": [
+    {
+      "path": "./assets/mobs/sheep/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/shear.mp3",
+      "filename": "shear.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/step4.mp3",
+      "filename": "step4.mp3"
+    },
+    {
+      "path": "./assets/mobs/sheep/step5.mp3",
+      "filename": "step5.mp3"
+    }
+  ],
+  "skeleton": [
+    {
+      "path": "./assets/mobs/skeleton/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/hurt1.mp3",
+      "filename": "hurt1.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/hurt2.mp3",
+      "filename": "hurt2.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/hurt3.mp3",
+      "filename": "hurt3.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/hurt4.mp3",
+      "filename": "hurt4.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/skeleton/step4.mp3",
+      "filename": "step4.mp3"
+    }
+  ],
+  "spider": [
+    {
+      "path": "./assets/mobs/spider/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/say4.mp3",
+      "filename": "say4.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/spider/step4.mp3",
+      "filename": "step4.mp3"
+    }
+  ],
+  "villager": [
+    {
+      "path": "./assets/mobs/villager/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/haggle1.mp3",
+      "filename": "haggle1.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/haggle2.mp3",
+      "filename": "haggle2.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/haggle3.mp3",
+      "filename": "haggle3.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/hit1.mp3",
+      "filename": "hit1.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/hit2.mp3",
+      "filename": "hit2.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/hit3.mp3",
+      "filename": "hit3.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/hit4.mp3",
+      "filename": "hit4.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/idle1.mp3",
+      "filename": "idle1.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/idle2.mp3",
+      "filename": "idle2.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/idle3.mp3",
+      "filename": "idle3.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/no1.mp3",
+      "filename": "no1.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/no2.mp3",
+      "filename": "no2.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/no3.mp3",
+      "filename": "no3.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/yes1.mp3",
+      "filename": "yes1.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/yes2.mp3",
+      "filename": "yes2.mp3"
+    },
+    {
+      "path": "./assets/mobs/villager/yes3.mp3",
+      "filename": "yes3.mp3"
+    }
+  ],
+  "zombie": [
+    {
+      "path": "./assets/mobs/zombie/death.mp3",
+      "filename": "death.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/hurt1.mp3",
+      "filename": "hurt1.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/hurt2.mp3",
+      "filename": "hurt2.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/say1.mp3",
+      "filename": "say1.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/say2.mp3",
+      "filename": "say2.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/say3.mp3",
+      "filename": "say3.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/step1.mp3",
+      "filename": "step1.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/step2.mp3",
+      "filename": "step2.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/step3.mp3",
+      "filename": "step3.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/step4.mp3",
+      "filename": "step4.mp3"
+    },
+    {
+      "path": "./assets/mobs/zombie/step5.mp3",
+      "filename": "step5.mp3"
+    }
+  ],
+  "eat": [
+    {
+      "path": "./assets/user/eat/burp.mp3",
+      "filename": "burp.mp3"
+    },
+    {
+      "path": "./assets/user/eat/drink.mp3",
+      "filename": "drink.mp3"
+    },
+    {
+      "path": "./assets/user/eat/eat1.mp3",
+      "filename": "eat1.mp3"
+    },
+    {
+      "path": "./assets/user/eat/eat2.mp3",
+      "filename": "eat2.mp3"
+    },
+    {
+      "path": "./assets/user/eat/eat3.mp3",
+      "filename": "eat3.mp3"
+    }
+  ],
+  "user": [
+    {
+      "path": "./assets/user/levelup.mp3",
+      "filename": "levelup.mp3"
+    },
+    {
+      "path": "./assets/user/orb.mp3",
+      "filename": "orb.mp3"
+    },
+    {
+      "path": "./assets/user/sand1.mp3",
+      "filename": "sand1.mp3"
+    },
+    {
+      "path": "./assets/user/sand2.mp3",
+      "filename": "sand2.mp3"
+    },
+    {
+      "path": "./assets/user/sand3.mp3",
+      "filename": "sand3.mp3"
+    },
+    {
+      "path": "./assets/user/sand4.mp3",
+      "filename": "sand4.mp3"
+    },
+    {
+      "path": "./assets/user/sand5.mp3",
+      "filename": "sand5.mp3"
+    },
+    {
+      "path": "./assets/user/stone1.mp3",
+      "filename": "stone1.mp3"
+    },
+    {
+      "path": "./assets/user/stone2.mp3",
+      "filename": "stone2.mp3"
+    },
+    {
+      "path": "./assets/user/stone3.mp3",
+      "filename": "stone3.mp3"
+    },
+    {
+      "path": "./assets/user/stone4.mp3",
+      "filename": "stone4.mp3"
+    },
+    {
+      "path": "./assets/user/stone5.mp3",
+      "filename": "stone5.mp3"
+    },
+    {
+      "path": "./assets/user/stone6.mp3",
+      "filename": "stone6.mp3"
+    },
+    {
+      "path": "./assets/user/wood1.mp3",
+      "filename": "wood1.mp3"
+    },
+    {
+      "path": "./assets/user/wood2.mp3",
+      "filename": "wood2.mp3"
+    },
+    {
+      "path": "./assets/user/wood3.mp3",
+      "filename": "wood3.mp3"
+    },
+    {
+      "path": "./assets/user/wood4.mp3",
+      "filename": "wood4.mp3"
+    },
+    {
+      "path": "./assets/user/wood5.mp3",
+      "filename": "wood5.mp3"
+    },
+    {
+      "path": "./assets/user/wood6.mp3",
+      "filename": "wood6.mp3"
+    }
+  ]
+}
